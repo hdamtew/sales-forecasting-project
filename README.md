@@ -1,4 +1,5 @@
-# sales-forecasting-projec/
+📁 sales-forecasting-project/
+│
 ├── data/
 ├── notebooks/
 ├── scripts/
