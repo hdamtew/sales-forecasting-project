@@ -1,1 +1,7 @@
-# sales-forecasting-project
+# sales-forecasting-projec/
+├── data/
+├── notebooks/
+├── scripts/
+├── models/
+├── dashboard/
+└── README.md
